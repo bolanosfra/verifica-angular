@@ -6,5 +6,10 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
+  burzum : string ;
+  constructor() { 
+    this.burzum = "app"
+  }
+
   title = 'bolanos-fra-fila-a';
 }
