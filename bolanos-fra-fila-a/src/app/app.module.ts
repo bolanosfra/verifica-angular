@@ -3,7 +3,7 @@ import { BrowserModule } from '@angular/platform-browser';
 
 import { AppComponent } from './app.component';
 import { SecondoComponent } from './secondo/secondo.component';
-import { RezoComponent } from './rezo/rezo.component';
+
 import { TerzoComponent } from './terzo/terzo.component';
 import { QuartoComponent } from './quarto/quarto.component';
 
@@ -11,7 +11,7 @@ import { QuartoComponent } from './quarto/quarto.component';
   declarations: [
     AppComponent,
     SecondoComponent,
-    RezoComponent,
+
     TerzoComponent,
     QuartoComponent
   ],
